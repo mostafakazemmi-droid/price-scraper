@@ -1,0 +1,6 @@
+{
+  "name": "Price Scraper Panel",
+  "description": "Smart Persian Web Scraper Control Panel and Price API using Python and React",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
